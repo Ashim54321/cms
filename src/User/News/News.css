@@ -1,0 +1,98 @@
+.News {
+  padding-bottom: 8rem;
+}
+
+.Newspage {
+  overflow-y: scroll;
+  height: 100%;
+  padding-bottom: 8rem;
+  margin-top: -0.5rem;
+  width: 100%;
+  position: fixed;
+}
+.News-display {
+  width: 70%;
+  margin-right: 2rem;
+}
+.quick-news {
+  /* background-color: aliceblue; */
+  width: 40%;
+  /* overflow-y: auto; */
+}
+.AddPost {
+  height: 8rem;
+  /* border: 0.1px solid rgb(219, 214, 214); */
+  background-color: aliceblue;
+  padding: 0.5rem;
+}
+.add {
+  display: flex;
+}
+.add-input {
+  width: 70%;
+  height: 2rem;
+  margin-left: 1rem;
+}
+.fileinp {
+  width: 8rem;
+  margin-left: 1rem;
+  height: 2rem;
+  margin-right: 1rem;
+}
+.info {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+.info img {
+  border-radius: 100px;
+  margin-left: 1rem;
+}
+.info h5 {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+.info h6 {
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+
+.ShowPost{
+  display:flex;
+  margin-bottom: 1rem;
+}
+.Image-post{
+  /* width: 50%; */
+  margin-top: 1rem;
+  background-color: black;
+}
+.Image-post img{
+  width: 30rem;
+  background-color: black;
+}
+.Post-details{
+  margin-top: 1rem;
+ 
+  padding: 1rem;
+}
+.User-details{
+  display:flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.User-details img{
+  height: 2.8rem;
+  margin-right: 0.8rem;  
+  background-color: black;
+  border-radius: 50%;
+}
+.User-details h4{
+  font-weight: 800;
+  margin-top: 0.5rem;
+}
+.User-post p{
+ font-size: 15px;
+ height: 8rem;
+ overflow-y: auto;
+ font-weight: 550;
+ width: 100%;
+}

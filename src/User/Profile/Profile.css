@@ -1,0 +1,104 @@
+.Profile{
+    height:100%; 
+    margin-top: -1rem; 
+    padding-bottom: 8rem;
+    width: 100%;
+}
+.Profile small{
+    margin-left: 2rem;
+}
+.user-name{
+    text-align: center;
+    margin-top: 1rem;
+    color: black;
+    font-size: 21px;
+    width: 80%;
+}
+.image{
+    display: flex;
+}
+.User-info{
+    margin-bottom: 4rem;
+    background-color: aliceblue;
+    padding: 1rem;
+    width: 100%;
+}
+.user-img{
+    display: flex;
+    justify-content: center; 
+    margin-top: 1rem; 
+    width: 80%;
+}
+.user-img img{
+    border-radius: 100px;
+}
+
+.Contact{
+    display: flex;
+    padding: 2rem 4rem;
+    width: 100%;
+}
+.About{
+    width: 50%;
+    margin-right: 4rem;
+}
+.About h4{
+    font-size: 18px;
+}
+.About p{
+    font-size: 13px;
+}
+.About h4 span{
+    font-size: 20px;
+    margin-right: 1rem;
+}
+.address h4 span{
+    font-size: 20px;
+    margin-right: 1rem;
+}
+
+
+.address{
+    width: 50%;
+    margin-left: 4rem;
+}
+.address h4{
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+.address h4 span{
+    
+    font-size: 18px;
+}
+.address h6 span{
+    margin-right: 1rem;
+    font-size: 18px;
+}
+.address h6{
+    color: gray;
+}
+.Spacing{
+    margin: 2rem;
+    /* border: 0.1px solid rgb(219, 215, 215); */
+}
+.User-info h5{
+  font-size: 20px;
+  /* color: gray; */
+  border-bottom: 0.5px solid rgb(219, 215, 215);
+  padding-bottom: 10px;
+  margin-bottom: 1rem;
+}
+
+.Name{
+    display: flex;
+}
+.Info{
+    display: flex;
+}
+.about{
+    margin: 0.5rem 0.1rem;
+}
+.aboutme{
+    margin: 0.5rem 0.1rem;
+    width: 49%;
+}

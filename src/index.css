@@ -1,0 +1,26 @@
+body{
+   height: auto;
+    margin: 0;
+    top: 0;
+}
+.page{
+    width: 100%;
+    background-color: azure;
+    display: flex;
+    /* height: 50rem; */
+    justify-content: center;
+    align-items: center;
+}
+.page h1{
+       font-size: 50px;
+       border-right: 2px solid gray;
+       padding-right: 2rem;
+}
+.page h2{
+    padding-left: 2rem;
+}
+.toast-msg{
+    background-color: blue !important;
+    color: white;
+    border-radius: 2px;
+}

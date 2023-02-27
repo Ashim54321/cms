@@ -1,0 +1,46 @@
+.Question {
+  display: flex;
+}
+.Show-question {
+  background-color: aliceblue;
+  padding: 1rem 2rem;
+  margin-bottom: 1rem;
+  width: 65rem ;
+  margin-right: 2rem;
+}
+.Drawer {
+  z-index: 9999;
+}
+.Questions {
+  height: 100%;
+}
+.Sidebar {
+  width: 25%;
+  height: 100%;
+  
+}
+.User-details h5 {
+  margin-right: 1rem;
+  text-transform: capitalize;
+}
+.User-details img{
+  width: 2.8rem;
+}
+
+.User-question p {
+  min-height: 8rem;
+  font-size: 20px;
+}
+.Additional {
+  display: flex;
+  border-top: 0.5px solid grey;
+}
+.button {
+  background-color: transparent;
+  color: black;
+}
+.button span {
+  font-size: 18px;
+  margin-right: 10px;
+  color: grey;
+}
